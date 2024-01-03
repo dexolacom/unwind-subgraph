@@ -1,0 +1,8 @@
+{
+  "fuji": {
+    "UniswapV2Factory": {
+      "address": "0x8C1B7A1Eb67644dcab65ee12e225dD953b185bCb",
+      "startBlock": 28904061
+    }
+  }
+}
